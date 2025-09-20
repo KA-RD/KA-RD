@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm a newbie at this
 
-[here](http://cop433103.com/)
-
 <!--
 **KA-RD/KA-RD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
